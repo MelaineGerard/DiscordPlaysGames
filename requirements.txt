@@ -1,0 +1,4 @@
+ahk
+ahk[binary]
+python-dotenv
+discord.py
